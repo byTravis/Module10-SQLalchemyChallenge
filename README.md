@@ -1,7 +1,7 @@
 # Module 10 - SQLAlchemy & Flask Challenge
 SQLAlchemy & Flask Challenge - Week 10 - Data Analytics Boot Camp - University of Oregon
 
-![SQL Alchemy & Flask Challenge](images/header_graphic.jpg)
+![SQL Alchemy & Flask Challenge](images/header_gx.jpg)
 
 ## Part 1:  Analyze and Explore the Climate Data
 Use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. Specifically, we'll use SQLAlchemy ORM queries, Pandas, and Matplotlib.
