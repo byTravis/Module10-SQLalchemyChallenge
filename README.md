@@ -17,7 +17,7 @@ Design a query to calculate the total number of stations and determine the most 
 ![Station Analysis](images/Station-USC00519281_histogram.png)
 
 ## Part 2:  Design A Climate App
-Design a Flask API based on the queries that you just developed.
+Design a Flask API based on the queries developed in the previous section.
 
 ### API Routes
 - /
